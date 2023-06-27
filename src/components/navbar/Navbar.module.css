@@ -4,6 +4,11 @@
     box-shadow: 0px 2px 2px 0px #adadad;
 }
 
-.item {
+.item a {
     color: #000;
+    text-decoration: none;
+}
+
+.item a.active {
+    color: #4410c9;
 }
